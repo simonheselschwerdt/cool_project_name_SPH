@@ -1,5 +1,5 @@
 # Science-project
-A demo repository for a science project. This is used in [part 3 of our git training for code publication](https://github.com/climate-service-center/git-tutorial/tree/main/part_03)!
+A demo repository for a science project named "cool_project_name_SPH". This is used in [part 3 of our git training for code publication](https://github.com/climate-service-center/git-tutorial/tree/main/part_03)!
 
 ## Installation
 
